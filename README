@@ -1,0 +1,6 @@
+maze is a suite of programs to generate, solve and check mazes for use in a speed challange during S13.
+
+    mazegen.c - Generates mazes
+    mazesolve.c - Solves mazes
+    mazecheck.c - Checks the solution to solved mazes
+    shared.c/shared.h - Shared code
